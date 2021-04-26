@@ -1,1 +1,1 @@
-# two_O_Player_Math_Game
+# Very simple 2 player math game!
